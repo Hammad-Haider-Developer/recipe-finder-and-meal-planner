@@ -1,7 +1,5 @@
 # 🍲 Recipe Finder & Meal Planner
 
-**Intern:** Hammad Haider · **Stack:** Vue 3 · Pinia · Vue Router · Vite · **Frontend only** (no backend, no API)
-
 ## Project description
 
 A recipe discovery and weekly meal-planning app. Users create an account, browse **20 sample recipes**, search by name or
